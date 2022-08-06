@@ -1,2 +1,9 @@
-# campaigns
-All the volunteer campaigns that the team was involved. Completed, Suspended, In Progress.
+# "Sprotyv Tech" Who are we
+
+# What is the goal of this repository
+
+# Repository Structure
+
+# Campaigns
+
+# How constantly help
